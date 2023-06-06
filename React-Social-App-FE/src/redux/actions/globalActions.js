@@ -1,0 +1,1 @@
+export const SET_ELEMENT_CLICK = "SET_ELEMENT_CLICK";

@@ -1,0 +1,3 @@
+//message
+export const UPDATE_INFO_GET_POST = "UPDATE_INFO_GET_POST";
+export const LOADING_POST_END = "LOADING_POST_END";

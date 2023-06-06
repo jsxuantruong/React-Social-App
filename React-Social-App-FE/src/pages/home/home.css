@@ -1,0 +1,12 @@
+.wrapper {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.homeContainer {
+  display: flex;
+  width: 100%;
+  flex: 1;
+}

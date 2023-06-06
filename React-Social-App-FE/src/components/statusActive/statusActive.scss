@@ -1,0 +1,28 @@
+.active {
+  border-radius: 50%;
+  position: absolute;
+  border: 2px solid white;
+
+  &.online {
+    height: 12px;
+    width: 12px;
+    background-color: limegreen;
+    bottom: -3px;
+    right: 6px;
+  }
+
+  &.offline {
+    width: 75%;
+    transform: translateX(-50%);
+    left: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    bottom: 0px;
+    color: #309848;
+    background-color: #1a221c;
+    padding: 1px 2px;
+    font-size: 8px;
+    background-color: #364a37;
+  }
+}

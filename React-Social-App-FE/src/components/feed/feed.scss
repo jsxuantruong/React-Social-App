@@ -1,0 +1,12 @@
+.feedWrapper {
+  flex: 5.5;
+  padding: 20px;
+  height: calc(100vh - 65px);
+  overflow-y: scroll;
+}
+
+.loadingPost {
+  text-align: center;
+  width: 100%;
+  margin: 20px 0;
+}

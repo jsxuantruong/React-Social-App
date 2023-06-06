@@ -1,0 +1,8 @@
+.mes-err {
+  color: red;
+  font-size: 12px;
+  margin-bottom: 10px;
+  display: block;
+  pointer-events: none;
+  user-select: none;
+}
